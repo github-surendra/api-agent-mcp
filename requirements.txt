@@ -1,0 +1,6 @@
+# requirements.txt
+fastapi
+uvicorn
+anthropic
+mcp
+python-dotenv        # ✅ Add this
