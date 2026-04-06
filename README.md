@@ -58,7 +58,7 @@ curl -X POST "http://localhost:8000/ai/calculate?expression=100%20*%2025%20/%204
 
 ### 3. Run agent standalone
 ```bash
-python agent.py
+python mcp_agent.py
 ```
 
 ### 4. Run MCP server standalone (stdio mode)
